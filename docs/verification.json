@@ -1,0 +1,30 @@
+{
+  "dataset_sha256": "6e1fe14a709655ae9952d16d6ed98ca22fa08d7d647d98099b624f853f61cb03",
+  "rows": 100000,
+  "split": {
+    "train": 60000,
+    "validation": 20000,
+    "test": 20000
+  },
+  "parameters": {
+    "learning_rate": 0.01,
+    "num_leaves": 15,
+    "max_depth": 4
+  },
+  "best_iteration": 76,
+  "test_metrics": {
+    "Accuracy": 0.7554,
+    "Precision": 0.634965034965035,
+    "Recall": 0.6163825614723186,
+    "F1": 0.6255358236374771,
+    "ROC-AUC": 0.8057506626597782
+  },
+  "checks": [
+    "Python syntax",
+    "Markdown local links",
+    "missing-data UI",
+    "100k-row training and tuning",
+    "prediction form",
+    "tuning UI"
+  ]
+}
