@@ -100,7 +100,7 @@ churn/
 
 이 저장소는 **SKN31-2nd-2Team 팀 프로젝트**를 바탕으로 정리한 개인 포트폴리오입니다. 프로젝트 전체를 개인 단독 구현으로 주장하지 않습니다.
 
-**김가율의 원 프로젝트 기여:** PM, README 작성, LightGBM 모델링.
+**Kim-gayul 원 프로젝트 기여:** PM, README 작성, LightGBM 모델링.
 
 팀의 나머지 기여는 Gradient Boosting·학습 보고서, XGBoost·Streamlit, Random Forest·전처리 보고서, 딥러닝·발표로 구성됩니다. 원 팀 저장소와 기여자 계정은 [기여 출처](docs/ATTRIBUTION.md)에 정리했습니다. 개인 프로필 이미지와 WBS 이미지는 공개 사본에서 제외했습니다.
 
